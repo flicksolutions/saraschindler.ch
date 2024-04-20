@@ -39,8 +39,8 @@
 	}
 	const pages = [
 		{ slug: 'Home', path: '/' },
-		{ slug: 'About', path: '/about' },
-		{ slug: 'Research', path: '/research' }
+		{ slug: 'About', path: '#about' },
+		{ slug: 'Research', path: '#research' }
 	];
 </script>
 
