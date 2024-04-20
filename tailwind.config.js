@@ -19,7 +19,7 @@ export default {
 
 	plugins: [
 		skeleton({
-			themes: { preset: ['skeleton'] }
+			themes: { preset: ['crimson'] }
 		})
 	]
 };
